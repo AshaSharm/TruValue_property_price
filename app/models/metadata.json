@@ -1,0 +1,1 @@
+{"model_path": "app\\models\\truvalue_model.joblib", "preprocessor_path": "app\\models\\preprocessor.joblib", "num_features": ["Area_sqft", "Bedrooms", "Bathrooms", "Age_years"], "cat_features": ["Location"]}

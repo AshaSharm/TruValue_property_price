@@ -1,0 +1,21 @@
+Area_sqft,Bedrooms,Bathrooms,Location,Age_years,Price_AED
+1450,2,2,Dubai Marina,5,1800000
+2100,3,3,Downtown Dubai,2,3500000
+950,1,1,Jumeirah Lake Towers,10,900000
+3500,4,4,Arabian Ranches,3,4500000
+1550,2,3,Dubai Marina,7,1950000
+,3,3,Downtown Dubai,8,3200000
+1600,2,2,Jumeirah Lake Towers,6,1750000
+4200,4,5,Arabian Ranches,1,5500000
+2200,3,3,Downtown Dubai,4,3800000
+800,1,,Jumeirah Lake Towers,12,750000
+2300,3,3,Dubai Marina,9,2400000
+5100,5,5,Arabian Ranches,2,6800000
+2150,3,3,Downtown Dubai,,3400000
+3800,4,4,Arabian Ranches,3,4900000
+1650,2,2,Jumeirah Lake Towers,8,1850000
+1500,2,2,Dubai Marina,4,1880000
+2500,3,4,Downtown Dubai,1,4200000
+1100,1,2,Jumeirah Lake Towers,7,1150000
+1900,3,3,Dubai Marina,6,2200000
+4500,4,5,Arabian Ranches,,5800000
