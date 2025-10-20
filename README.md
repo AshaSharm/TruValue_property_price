@@ -31,7 +31,7 @@ git clone <repository-url>
 cd ml-challenge
 
 2️⃣ Create and activate virtual environment
-python -m venv .venv
+py -3.10 -m venv .venv
 .venv\Scripts\activate
 Unix/macOS:
 
