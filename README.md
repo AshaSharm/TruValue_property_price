@@ -4,6 +4,7 @@ A **production-ready, containerized FastAPI service** providing **property price
 Supports **data preprocessing**, **model inference**, and **safe model updates without downtime**.
 
 ---
+![image alt](https://github.com/AshaSharm/TruValue_property_price/blob/9b637c2afaca3eff8fdb42166a0ce2c163139110/truValue_flow.png)
 
 ## 📁 Project Structure
 
