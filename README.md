@@ -126,10 +126,6 @@ Response:
   "model_version": "truvalue_1729308921.joblib"
 }
 
-Flow Diagram
-<img width="406" height="562" alt="image" src="https://github.com/user-attachments/assets/4f189749-a8af-4d33-99df-e751b7be5b3a" />
-
-
 🧠 Design Notes
 🚀 Zero Downtime Retraining: Retraining runs asynchronously and atomically swaps in the new model using thread locks.
 
