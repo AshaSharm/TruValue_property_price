@@ -17,4 +17,4 @@ ENV PYTHONUNBUFFERED=1
 # Ensure model dir exists
 RUN mkdir -p /app/app/models
 
-CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000", "--workers", "1"]
+CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8080", "--workers", "1"]
